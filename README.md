@@ -28,8 +28,8 @@ Armé un programa que:
 Requiere **Python 3.10 o superior**. No usa paquetes externos.
 
 ```
-git clone https://github.com/USUARIO/tp2-rossi.git
-cd tp2-rossi
+git clone https://github.com/USUARIO/tp2-Paula-Rossi.git
+cd tp2-Paula-Rossi
 ```
 
 ## Uso
