@@ -1,18 +1,18 @@
 # Catálogo de películas con listas de selección
 
-**Autora:** Paula Rossi. Programación Orientada a Datos, Lic. en Ciencia de Datos, UCA Rosario, 2026.
+**Nombre:** Paula Rossi. Programación Orientada a Datos, Lic. en Ciencia de Datos, UCA Rosario, 2026.
 
 ## Problema
 
-Para armar una lista de películas recomendadas hay que buscar por título, género o año. Además hay que tener en cuenta **cuántas opiniones respaldan cada valoración**. Si se ordena solo por la media, una película con una única valoración de 5 queda arriba de otras con cientos de valoraciones buenas.
+Para armar una lista de películas recomendadas hay que buscar por título, género o año. Además hay que tener en cuenta cuántas opiniones respaldan cada valoración. Si se ordena solo por la media, una película con una única valoración de 5 queda arriba de otras con cientos de valoraciones buenas.
 
 ## Usuario
 
-Cualquier persona que arme listas de películas, como un cineclub, un docente, alguien que escribe un blog o un grupo de amigos. El resultado le sirve para elegir títulos bien valorados **y con respaldo suficiente**.
+Cualquier persona que arme listas de películas, como un cineclub, un docente, alguien que escribe un blog o un grupo de amigos. El resultado le sirve para elegir títulos bien valorados y con respaldo suficiente.
 
 ## Solución propuesta
 
-Una aplicación de consola que:
+Armé un programa que:
 
 1. lee un catálogo de películas y sus valoraciones, en **CSV o JSON**;
 2. valida y limpia los datos, y registra cada fila rechazada con su motivo;
@@ -34,7 +34,7 @@ cd tp2-rossi
 
 ## Uso
 
-Todos los comandos se ejecutan **desde la raíz del repositorio**.
+Todos los comandos se ejecutan desde la raíz del repositorio.
 
 ```
 # Lista general con la muestra (CSV)
