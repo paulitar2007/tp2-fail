@@ -1,0 +1,23 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Editores
+.vscode/
+.idea/
+.DS_Store
+
+# Salidas generadas (se recrean ejecutando el programa)
+outputs/
+
+# Dataset completo de MovieLens (pesado; se descarga aparte, ver data/README.md)
+data/ml-latest-small/
+data/*.zip
+
+# Secretos
+.env
