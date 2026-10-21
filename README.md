@@ -1,6 +1,6 @@
 # Catálogo de películas con listas de selección
 
-**Nombre:** Paula Rossi. Programación Orientada a Datos, Lic. en Ciencia de Datos, UCA Rosario, 2026.
+**Autor:** Paula Rossi. Programación Orientada a Datos, Lic. en Ciencia de Datos, UCA Rosario, 2026.
 
 ## Problema
 
